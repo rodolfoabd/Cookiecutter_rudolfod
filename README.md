@@ -1,6 +1,6 @@
 # cookiecutter_rudolfd
 
-plantilla
+tample
   
 ## Installation guide
 
