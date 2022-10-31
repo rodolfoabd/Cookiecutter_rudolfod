@@ -5,6 +5,7 @@ import seaborn as sns
 
 
 def covid_time_series(df: pd.DataFrame):
+    print("Probando la función")
     sns.lineplot(
         data=df,
         x="date",
@@ -16,3 +17,5 @@ def covid_time_series(df: pd.DataFrame):
     plt.xlabel("Date")
     plt.ylabel("Value")
     plt.title("Latam covid time series");
+
+
